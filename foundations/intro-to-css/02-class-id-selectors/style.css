@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+.one {
+    background: lightcoral;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.second {
+    color: blue;
+    font-size: 36px;
+}
+.third {
+    background: lightcoral;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.fourth {
+    background: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+.fifth {
+    background: lightcoral;
+}
