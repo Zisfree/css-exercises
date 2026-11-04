@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+.first {
+    background: black;
+    color: white;
+    font-size: 28px;
+}
+.second {
+    background: yellow;
+    color: black;
+    font-size: 28px;
+}
