@@ -1,10 +1,13 @@
 .first {
     background: black;
     color: white;
-    font-size: 28px;
 }
 .second {
     background: yellow;
     color: black;
+}
+.first,
+.second {
     font-size: 28px;
+    font-family: 'Times New Roman', Times, serif
 }
